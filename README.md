@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshpareek7
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in open source and developement 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate in open source 
